@@ -1,6 +1,6 @@
 {
 	"name": "iequalsone/gravity-forms-stripe",
-	"description": "Custom Post Types for TLC",
+	"description": "Gravity Forms Stripe",
 	"keywords": ["wordpress", "blog", "cms"],
 	"type": "wordpress-plugin"
 }
